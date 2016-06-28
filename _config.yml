@@ -1,0 +1,14 @@
+layout_spectrum: 0.447950660251081
+typography_spectrum: 0.5628509593661875
+color:
+  brandStrength: 0.3259123496245593
+  lightness: 0.08167756628245115
+  saturation: 0.5103227652143687
+  rhythmicContrast: 0.0008695744909346104
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: technoshaman
